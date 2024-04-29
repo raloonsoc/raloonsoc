@@ -5,9 +5,9 @@
 
 # 👨‍💻About me
   <div>🌐 Web Developer</div>
-  <div>👷‍♂️ Now working on Luzilia</div>
-  <div>📘 Student of MSN</div>
-  <div>📚 Now learning Next.js and MongoDB</div>
+  <div>👷‍♂️ Now working on <b>Luzilia</b></div>
+  <div>📘 Student of <b>MSN</b></div>
+  <div>📚 Now learning <b>Next.js</b> and <b>MongoDB</b></div>
 
 
 # 🌐 Social
