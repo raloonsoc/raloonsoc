@@ -4,12 +4,11 @@
 <img src="https://i.imgur.com/bUKMU7K.png">
 
 # 👨‍💻About me
-<ul style="list-style-type: none;">
-  <li>🌐 Web Developer</li>
-  <li>👷‍♂️ Now working on Luzilia</li>
-  <li>📘 Student of MSN</li>
-  <li>📚 Now learning Next.js and MongoDB</li>
-</ul>
+  <div>🌐 Web Developer</div>
+  <div>👷‍♂️ Now working on Luzilia</div>
+  <div>📘 Student of MSN</div>
+  <div>📚 Now learning Next.js and MongoDB</div>
+
 
 # 🌐 Social
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RushWTF_)
