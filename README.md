@@ -11,7 +11,7 @@
 
 
 # 🌐 Social
-[![Linkedin](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/raúl-alonso-cuesta-28684527a)
+[![Linkedin](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raúl-alonso-cuesta-28684527a)
 
 # 🖥️ Tech Stack
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
