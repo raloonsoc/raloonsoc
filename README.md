@@ -1,36 +1,52 @@
 <div align="center">
-<h1 align="center">Hi, I'm Raúl</h1>
+
+<br>
+
+```
+RAÚL ALONSO
+```
+
+**Full Stack Developer** · Valladolid, Spain
+
+[![Portfolio](https://img.shields.io/badge/ralonsoc.com-E9EBDF?style=flat-square&logoColor=000)](https://ralonsoc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/raúl-alonso-cuesta-28684527a)
+
+<br>
+
 </div>
-<img src="https://i.imgur.com/bUKMU7K.png">
 
-# 👨‍💻About me
-  <div>🌐 Full-Stack Developer</div>
-  <div>👷‍♂️ Now working on <b>...</b></div>
-  <div>📘 Student of <b>WAD</b></div>
-  <div>📚 Now learning <b>Rust</b>
+---
+
+```
+// ABOUT
+```
+
+Studying **Web Application Development** · Building things with TypeScript, React and Bun.  
+Currently learning **Go**.
+
+---
+
+```
+// STACK
+```
+
+[![Skills](https://skillicons.dev/icons?i=ts,js,python,java)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=bun,nodejs,elysia,express)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=git,docker,github,githubactions,pnpm,vscode,idea,figma)](https://skillicons.dev)
 
 
-# 🌐 Social
-[![Linkedin](https://img.shields.io/badge/Linkedin-1DA1F2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/raúl-alonso-cuesta-28684527a)
+---
 
-# 🖥️ Tech Stack
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-)
-![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
-)
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-)
-![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)
-![VSCODE](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![NOTION](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+```
+// STATS
+```
 
-# 📊 Github Stats
 ![GitHub Stats](https://api.ralonsoc.com/api/github/stats/widget)
 
-[![Top Langs](https://api.ralonsoc.com/api/github/langs/widget)
+![Top Languages](https://api.ralonsoc.com/api/github/langs/widget)
