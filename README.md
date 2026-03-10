@@ -31,6 +31,6 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 # 📊 Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raloonsoc&theme=radical)
+![GitHub Stats](https://api.ralonsoc.com/api/github/stats/widget)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raloonsoc&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://api.ralonsoc.com/api/github/langs/widget)
