@@ -50,3 +50,12 @@ Currently learning **Go**.
 ![GitHub Stats](https://api.ralonsoc.com/api/github/stats/widget)
 
 ![Top Languages](https://api.ralonsoc.com/api/github/langs/widget)
+
+---
+
+```
+// NOW PLAYING
+```
+
+
+![Spotify Now Playing](https://api.ralonsoc.com/api/spotify/now-playing/widget)
