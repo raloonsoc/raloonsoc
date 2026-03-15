@@ -47,9 +47,9 @@ Currently learning **Go**.
 // STATS
 ```
 
-![GitHub Stats](https://api.ralonsoc.com/api/github/stats/widget)
+![GitHub Stats](https://ralonsoc.com/api/github/stats/widget)
 
-![Top Languages](https://api.ralonsoc.com/api/github/langs/widget)
+![Top Languages](https://ralonsoc.com/api/github/langs/widget)
 
 ---
 
@@ -58,4 +58,4 @@ Currently learning **Go**.
 ```
 
 
-![Spotify Now Playing](https://api.ralonsoc.com/api/spotify/now-playing/widget)
+![Spotify Now Playing](https://ralonsoc.com/api/spotify/now-playing/widget)
