@@ -34,7 +34,7 @@ Currently learning **Go**.
 
 [![Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,vite)](https://skillicons.dev)
 
-[![Skills](https://skillicons.dev/icons?i=bun,nodejs,elysia,express)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=bun,nodejs,elysia,express,nest)](https://skillicons.dev)
 
 [![Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis)](https://skillicons.dev)
 
