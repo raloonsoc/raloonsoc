@@ -21,7 +21,7 @@ RAÚL ALONSO
 // ABOUT
 ```
 
-Studying **Web Application Development** · Building things with TypeScript, React and Bun.  
+Building things with TypeScript, React and Bun.  
 Currently learning **Go**.
 
 ---
